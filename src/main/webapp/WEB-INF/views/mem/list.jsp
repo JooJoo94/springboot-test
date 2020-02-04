@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<img src="/media/Screenshot_27.png"/>
 	<table>
 		<tr>
 			<th>username</th>
